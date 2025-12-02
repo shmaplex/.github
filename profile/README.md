@@ -1,4 +1,6 @@
-# ![Shmaplex Logo](https://github.com/shmaplex/.github/blob/main/profile/SHMAPLEX-wht.png)
+<br><br><br><br>
+![Shmaplex Logo](https://github.com/shmaplex/.github/blob/main/profile/SHMAPLEX-wht.png)
+<br><br><br><br>
 
 Welcome to **Shmaplex** – where passion for creativity, craftsmanship, and technology converge.  
 
