@@ -1,4 +1,4 @@
-# ![Shmaplex Logo](./logo.png)
+# ![Shmaplex Logo](https://github.com/shmaplex/.github/blob/main/profile/google-merchant.png)
 
 Welcome to **Shmaplex** – where passion for creativity, craftsmanship, and technology converge.  
 
