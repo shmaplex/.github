@@ -10,7 +10,7 @@ Today, Shmaplex is also a **technology company**, building apps and tools that m
 
 ## What We Do
 
-- **Fingerboards & Accessories** – crafted with care for collectors, skaters, and enthusiasts.  
+- **Fingerboard (small skateboards for your fingers) Shop** – crafted with care for collectors, skaters, and enthusiasts.  
 - **Global Online Shop** – [shmaplex.com](https://www.shmaplex.com) is our hub for fans worldwide and a great place to buy some fingerboards (finger skateboards).  
 - **Technology & Apps** – including open-source projects like **Nous**, plus new tools and experiences under development.  
 
