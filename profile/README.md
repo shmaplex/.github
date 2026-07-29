@@ -1,26 +1,77 @@
-<br><br><br><br>
 ![Shmaplex Logo](https://github.com/shmaplex/.github/blob/main/profile/shmaplex-logo-blk@2x.png)
-<br><br><br><br>
 
-Welcome to **Shmaplex** – where passion for creativity, craftsmanship, and technology converge.  
+# Building focused software, marketplaces, and intelligent tools.
 
-We started our journey as a **fingerboard brand**, handcrafting premium fingerboards and offering an online shop for enthusiasts worldwide at [shmaplex.com](https://www.shmaplex.com). Our love for design, precision, and culture drove us to grow beyond products, embracing **technology as a global platform for innovation**.  
+**SHMAPLEX** is an independent software company building products that help people buy, sell, grow, collect, and make better decisions.
 
-Today, Shmaplex is also a **technology company**, building apps and tools that make a difference. One of our key projects is **[Nous](https://github.com/shmaplex/nous)**, and we continue to explore new applications, software, and experiences that combine creativity with utility.  
+Our portfolio spans global marketplaces, professional software, logistics, agricultural intelligence, and specialized tools. While each product serves a different community, they all share the same philosophy: thoughtful design, practical technology, and long-term product quality.
 
-## What We Do
+We build products we would genuinely want to use ourselves.
 
-- **Global Online Shop** – [shmaplex.com](https://www.shmaplex.com) is our hub for fans worldwide and a great place to buy some fingerboards (finger skateboards).  
-- **Technology & Apps** – including open-source projects like **Nous**, plus new tools and experiences under development.  
+## Our Products
 
-## Explore Our Projects
+### 🌱 xPlant Pro
+**https://www.xplantpro.com**
 
-Check out our GitHub repositories to see our technology in action:  
+Software for plant tissue culture laboratories, growers, researchers, and educators. xPlant helps organize workflows, improve documentation, and make tissue culture more approachable for everyone.
 
-- [Nous](https://nous.shmaplex.com) – a decentralized app ecosystem
-- [xPlant](https://xplant.shmaplex.com) – organic tissue plant futures  
-- [Other Projects](https://github.com/shmaplex) – browse all of our ongoing and open-source initiatives  
+---
+
+### 🛹 Kingpin Market
+**https://www.kingpinmarket.com**
+
+A global marketplace for fingerboard enthusiasts to discover, buy, and sell equipment while supporting independent brands and creators.
+
+---
+
+### 🃏 Holo
+**https://www.fromholo.com**
+
+A modern collectibles marketplace designed for trading cards and collectible communities, with an emphasis on trust, transparency, and high-quality buying and selling experiences.
+
+---
+
+### 🚢 Senda
+**https://www.sendaship.com**
+
+Logistics and shipment management software that helps organizations coordinate shipments, documentation, tracking, and operational workflows.
+
+---
+
+### 🌾 Ag Digest
+**https://agdigest.shmaplex.com**
+
+Agricultural commodity intelligence that helps commercial teams stay informed with structured, country-specific market information and research.
+
+---
+
+### 🌱 Seedlot
+**https://seedlot.shmaplex.com**
+
+Tools and technology supporting seed, propagation, and agricultural workflows currently under active development.
+
+## Open Source
+
+Many of our products are built in the open. We believe sharing our work helps create better software, encourages collaboration, and contributes back to the developer community.
+
+Explore our repositories:
+
+- https://github.com/shmaplex
+
+## Our Approach
+
+Across every product we focus on:
+
+- Building software that solves real-world problems.
+- Creating products that are intuitive, fast, and reliable.
+- Supporting passionate communities with purpose-built tools.
+- Designing systems that scale thoughtfully over time.
+- Contributing to open source whenever practical.
 
 ## Join Us
 
-We are constantly exploring new ideas in both **physical products** and **digital technology**. Follow along, contribute to our projects, or simply stay inspired by what we’re building.  
+Whether you're a developer, customer, collaborator, or simply curious about what we're building, we'd love to have you follow along.
+
+Explore our projects, contribute to our open-source work, or learn more about the SHMAPLEX portfolio at:
+
+**https://github.com/shmaplex**
