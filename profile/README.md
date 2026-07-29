@@ -1,5 +1,5 @@
 <br><br><br><br>
-![Shmaplex Logo](https://github.com/shmaplex/.github/blob/main/profile/SHMAPLEX-wht.png)
+![Shmaplex Logo](https://github.com/shmaplex/.github/blob/main/profile/shmaplex-logo-blk@2x.png)
 <br><br><br><br>
 
 Welcome to **Shmaplex** – where passion for creativity, craftsmanship, and technology converge.  
