@@ -55,7 +55,7 @@ Tools and technology supporting seed, propagation, and agricultural workflows cu
 ### 🏃 Runner
 **https://www.runtheworld.ai**
 
-GTM software for revenue teams: see which companies are on your site, answer the ones who ask, and reach the rest — all under one login. Access is by application.
+An AI growth team built from your code or your POS sales: AI agents with one job each, on the model you choose, working toward the number you set, inside the limits you set.
 
 ## Open Source
 
